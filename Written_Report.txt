@@ -1,0 +1,41 @@
+# Kickstarting with Excel
+
+## Overview of Project - The projects shows the correlation between the success rate vd Launch date and the targeted budget of the plays. 
+
+### Purpose - The purpose of this analysis is to identify the relationships between the success rate vs Launch date and the targeted goals
+
+## Analysis and Challenges
+The The main part of the analysis was appyling the "COUNTIFS" formula for each requirment, and the rest was easy to calculate the success rate. 
+Therefore, the biggest challenge was to imply the COUNTIFS formula for each requirement one by one, but after applying the countifs, 
+the results showed that the challenge was worth of try. 
+
+### Analysis of Outcomes Based on Launch Date: Analysis shows that the projects started during May, shoed higher rate of success. 
+May and June are the best time to launch the projects. The potential reason could be becuase of the summer vacation at schools. 
+
+### Analysis of Outcomes Based on Goals: 
+
+Projects between 45000-49999 have 80% probabilty to fail. It could be becuase of approppriete budgeting knowledge. 
+Projects between 35000-39999 shows 67% success rate, projects between that area has more potential to succeed than other budgeted projects. 
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. The projectd launched during May shows higher success rate than other months. It could be becuase of summer vacation that kids or parents prefer to enjoy from the plays.
+2. Projects started during the November and December have more potential to fail. It could be becuase of the holidays in several countries during those months. 
+
+- What can you conclude about the Outcomes based on Goals?
+1. Projects that aimed to make around 45000-49999 showed the highest failure rate. It could be becuase of the ticket prices are not affordable or
+ the opportinity cost of tickets are higher. 
+2. Projects that aimed to make between 35000-39999 showed the highes success rate. 
+It could be becuase of the ticket price seemed affordable for the consumers. 
+
+- What are some limitations of this dataset?
+Demographic info:
+We need: Income information of the people around the play locations, 
+we need: Family information, how many of people have kids who lives close to play locations
+We need: Age group of the people who lives close to play locations
+- What are some other possible tables and/or graphs that we could create?
+
+Relationship between countries vs success rate
+Relationship between blurbs vs success rate. Maybe some words can encourage or discourage people to donate. 
